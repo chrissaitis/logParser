@@ -23,9 +23,9 @@ Building Instructions
 
 Auto
 ---- 
-Go to the source folder using the terminal
+Go to your source folder using the terminal
 Run the LogParser.sh (./LogParser.sh)
-Don't forget to give the appropriate rights (chmod 755LogParser.sh)
+Don't forget to give the appropriate rights (chmod 755 LogParser.sh)
 
 Manual
 ------
